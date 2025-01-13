@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        muted: "var(--muted)",
+        ["card-bg"]: "var(--card-bg)",
+        ["profile-bg"]: "var(--profile-bg)",
+        subtitle: "var(--subtitle)",
       },
     },
   },
