@@ -49,10 +49,9 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS variables
+- Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind](https://tailwindcss.com/) - For styles
 
