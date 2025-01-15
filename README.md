@@ -42,7 +42,7 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ### Links
 
 - Solution URL: [Github repo](https://github.com/luAr26/time-tracking-dashboard)
-- Live Site URL: [Live Demo](https://designo-multi-page-website-zeta.vercel.app/)
+- Live Site URL: [Live Demo](https://time-tracking-dashboard-two-snowy.vercel.app/)
 
 ## My process
 
